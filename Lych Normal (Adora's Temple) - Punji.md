@@ -17,7 +17,7 @@
 ### Round 1
 * Start with Obyn (ABC Obyns ability until at least to round 40)
 
-### Round 10-17
+### Round 7-17
 * Buy x2 Banana Farm (2-0-0)
 * (Place all Banana Farms next to each other and near water)
 
@@ -26,7 +26,7 @@
 
 ### Round 22-30
 * Buy x4 Banana Farm (2-0-0)
-* Buy Dart Monkey (0-0-3)
+* Buy Dart Monkey near Druid and Obyn (0-0-3)
 
 ### Round 31-37
 * Upgrade x4 Banana Farm (2-0-0) to (2-0-3)
