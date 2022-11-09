@@ -15,7 +15,7 @@
 * Dart Monkey (0-0-3)
 
 ### Round 1
-* Start with Obyn (ABC Obyns ability until at least R40)
+* Start with Obyn (ABC Obyns ability until at least to round 40)
 
 ### Round 10-17
 * Buy x2 Banana Farm (2-0-0)
