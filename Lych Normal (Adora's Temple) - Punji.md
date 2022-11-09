@@ -38,6 +38,7 @@
 ### Round 39
 * Upgrade Banana Farm (2-0-0) to (2-0-2)
 * Sell x1 Banana Farm (2-0-2)
+* Sell x1 Banana Farm (2-0-0)
 * Upgrade Monkey Buccaneer (0-0-4)
 * Sell x3 Banana Farm (2-0-3)
 * Buy Ninja (1-0-4) in middle of map 
@@ -78,8 +79,6 @@
 * Buy Monkey Farm (3-2-0) close to water (away from current farms)
 * Sell everything in range of the Buccaneer
 * Sell Monkey Buccaneer
-
-### Round 63
 * Sell Druid (1-3-0)
 * Buy x2 Bomb Shooter (2-0-4) near to Monkey Village and set to "close"
 * Upgrade Banana Farm (3-2-0) to (4-2-0)
