@@ -33,9 +33,9 @@
 
 ### Round 38-39
 * Buy Monkey Buccaneer in range of Banana Farms (0-0-3)
-* Pause for round 40
+* Pause for round 39
 
-### Round 40
+### Round 39
 * Upgrade Banana Farm (2-0-0) to (2-0-2)
 * Sell x1 Banana Farm (2-0-2)
 * Upgrade Monkey Buccaneer (0-0-4)
